@@ -1,0 +1,19 @@
+{
+    "AUSTRALIA": ["Aaron Finch (C)", "Jason Behrendorff", "Alex Carey (wk)", "Nathan Coulter-Nile", "Pat Cummins", "Usman Khawaja", "Nathan Lyon", "Shaun Marsh", "Glenn Maxwell",
+        "Kane Richardson", "Steve Smith", "Mitchell Starc", "Marcus Stoinis", "David Warner", "Adam Zampa"
+    ],
+
+    "INDIA": ["Virat Kohli (C)", "Jasprit Bumrah", "Yuzvendra Chahal", "Shikhar Dhawan", "MS Dhoni (wk)", "Ravindra Jadeja", "Kedar Jadhav", "Dinesh Karthik (wk)", "Bhuvneshwar Kumar", "Hardik Pandya",
+        "KL Rahul", "Mohammed Shami", "Vijay Shankar", "Rohit Sharma", "Kuldeep Yadav"
+    ],
+
+    "ENGLAND": ["Eoin Morgan (C)", "Moeen Ali", "Jonny Bairstow (wk)", "Jos Buttler (wk)", "Tom Curran", "Joe Denly", "Liam Plunkett", "Adil Rashid", "Joe Root", "Jason Roy",
+        "Ben Stokes", "David Willey", "Chris Woakes", "Mark Wood"
+    ],
+
+    "SOUTH AFRICA": ["Faf du Plessis (C)", "Hashim Amla", "Quinton de Kock (wk)", "JP Duminy", "Aiden Markram", "David Miller", "Chris Morris", "Lungi Ngidi", "Andile Phehlukwayo",
+        "Dwaine Pretorius", "Kagiso Rabada", "Tabraiz Shamsi", "Dale Steyn", "Imran Tahir", "Rassie van der Dussen"
+    ]
+
+}
+ 
